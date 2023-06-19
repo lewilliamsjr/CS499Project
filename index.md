@@ -168,20 +168,7 @@ The artifact I chose for my Database category was my Messaging Application to as
 I selected this artifact because I do not utilize MySQL at all and it's a language I have very little experience using. The components of the artifact which would showcase my skills and abilities in software development are how I maintained, created, and retrieved information from a database in a table of rows and columns. Doing so I will illustrate how I can use databases and MySQL to distribute large datasets by accessing and retrieving data from innumerable databases once I reconstruct the entire program from scratch. The artifact was improved by creating advanced discrete tables for the database, add a new value to the person table called age, uploading the CSV file within my artifact, and add security factors where a user can log in but only is granted specific privileges and inhibit others. I'll also implement how I can accidentally give a user access but then revoke and then drop them. Overall, the artifact was improved by needing to completely figure out solutions on how to correctly implement the messaging app just as it was originally designed on Codio with some predefined statements. For example:
 
 
-```
-# Create csv file
-LOAD DATA LOCAL INFILE 'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\contact_list.csv'
 
-.headers on
-.mode csv
-.output data.csv
-SELECT connection_id,
-		person_id,
-		contact_id,
-		favorite
-FROM messaging.contact_list;
-.quit
-```
 
 Reflecting on the process of enhancing my artifact, it was difficult to start. I was unable to utilize my virtual desktop provided by SNHU called Apporto. Therefore, trying to download MongoDB and MySQL on my MacBook was my next option and then that didn't work out for me. So, I did some research and seen that I could reconstruct my entire Messaging App via Sublime Text and be able to save it as a .sql file. I also utilized tutors to help me construct my artifact because after long hours of watching YouTube and reading up on how to construct my app, I decided to get some professional help and it worked! Even though it took some time and patients to get my app up and going, I appreciated the struggle because I did appreciate learning about MySQL a few years back, but relearning about MySQL all over again and even newly advanced statements was worth it all.
 
