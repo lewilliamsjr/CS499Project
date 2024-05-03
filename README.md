@@ -2,7 +2,7 @@
 ## Software Engineering ePortfolio
 ### *CS499 Computer Science Capstone*
 
-*My name is Larry E Williams Jr (She/Her), preferred name Jay. I am a President's List alumni at Southern New Hampshire University, majored in Computer Science with a concentration in Software Engineering! Further down, I have thoroughly introduced myself via my Professional Self-Assessment. You will also find a couple of artifacts I have developed from my previous years at SNHU and will now be showcasing them in more complex and professionally functional applications which I advanced throughout my Computer Science Capstone course.*
+*My name is Larry E Williams Jr (he/Him). I am a President's List alumni at Southern New Hampshire University, majored in Computer Science with a concentration in Software Engineering! Further down, I have thoroughly introduced myself via my Professional Self-Assessment. You will also find a couple of artifacts I have developed from my previous years at SNHU and will now be showcasing them in more complex and professionally functional applications which I advanced throughout my Computer Science Capstone course.*
 
 
 ## *Table of Content*
